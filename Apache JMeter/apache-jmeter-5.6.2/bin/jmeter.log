@@ -1,0 +1,22 @@
+2023-12-27 12:56:24,752 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-12-27 12:56:24,798 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-12-27 12:56:24,799 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-12-27 12:56:24,807 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-12-27 12:56:24,807 INFO o.a.j.JMeter: Version 5.6.2
+2023-12-27 12:56:24,807 INFO o.a.j.JMeter: java.version=17.0.6
+2023-12-27 12:56:24,807 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2023-12-27 12:56:24,807 INFO o.a.j.JMeter: os.name=Windows 10
+2023-12-27 12:56:24,807 INFO o.a.j.JMeter: os.arch=amd64
+2023-12-27 12:56:24,807 INFO o.a.j.JMeter: os.version=10.0
+2023-12-27 12:56:24,808 INFO o.a.j.JMeter: file.encoding=MS949
+2023-12-27 12:56:24,808 INFO o.a.j.JMeter: java.awt.headless=null
+2023-12-27 12:56:24,808 INFO o.a.j.JMeter: Max memory     =1073741824
+2023-12-27 12:56:24,808 INFO o.a.j.JMeter: Available Processors =8
+2023-12-27 12:56:24,817 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-12-27 12:56:24,817 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-12-27 12:56:24,818 INFO o.a.j.JMeter: JMeterHome=D:\GIT\File\Apache JMeter\apache-jmeter-5.6.2
+2023-12-27 12:56:24,818 INFO o.a.j.JMeter: user.dir  =D:\GIT\File\Apache JMeter\apache-jmeter-5.6.2\bin
+2023-12-27 12:56:24,818 INFO o.a.j.JMeter: PWD       =D:\GIT\File\Apache JMeter\apache-jmeter-5.6.2\bin
+2023-12-27 12:56:24,820 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: MZC01-MINSEO_KIM89 FullName: MZC01-MINSEO_KIM89
+2023-12-27 12:56:24,831 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-12-27 12:56:25,143 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme

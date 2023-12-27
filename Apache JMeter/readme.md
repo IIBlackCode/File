@@ -16,4 +16,4 @@ JMeter의 기능과 특징은 다음과 같습니다:
 
 이러한 기능을 통해 JMeter는 웹 응용 프로그램 및 서비스의 성능을 효과적으로 테스트하고 모니터링할 수 있는 강력한 도구로 사용되고 있습니다.
 
-[다운로드 링크](https://github.com/IIBlackCode/File/blob/fd8b2dc0e8d33c3dfac0e11c7ec16bf1201b12e6/Apache%20JMeter/apache-jmeter-5.6.2.zip)
+[Jmeter 다운로드](https://github.com/IIBlackCode/File/raw/fd8b2dc0e8d33c3dfac0e11c7ec16bf1201b12e6/Apache%20JMeter/apache-jmeter-5.6.2.zip)
